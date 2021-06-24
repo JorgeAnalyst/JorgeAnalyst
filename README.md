@@ -1,5 +1,4 @@
-# Portfolio de Jorge Pozo
-Este portfolio es una compilación de algunos proyectos que he desarrollado para pulir mis habilidades y demostrar mis conocimientos técnicos en el análisis de datos y data science.
+# Proyectos Data Analytics
 
 # [Proyecto 1: Reporte de Ventas](https://github.com/PlayingNumbers/ds_salary_projEDITAR) 
 * Utilicé una base de datos preexistente de Microsoft (AdventureWorks Sample Databases)
