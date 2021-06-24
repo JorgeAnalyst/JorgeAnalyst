@@ -1,4 +1,4 @@
-# Proyectos Data Analytics
+# Portfolio Jorge Pozo
 
 # [Proyecto 1: Reporte de Ventas](https://github.com/PlayingNumbers/ds_salary_projEDITAR) 
 * Utilicé una base de datos preexistente de Microsoft (AdventureWorks Sample Databases)
