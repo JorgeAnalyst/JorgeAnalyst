@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio de Jorge Pozo
 Este portfolio es una compilación de algunos proyectos que he desarrollado para pulir mis habilidades y demostrar mis conocimientos técnicos en el análisis de datos y data science.
 
 # [Project 1: Data Science Salary Estimator](https://github.com/PlayingNumbers/ds_salary_projEDITAR) 
