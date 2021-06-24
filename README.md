@@ -1,6 +1,6 @@
 # Portfolio de Jorge Pozo
 
-# [Proyecto 1: Reporte de Ventas](https://github.com/PlayingNumbers/ds_salary_projEDITAR) 
+# [Proyecto 1: Reporte de Ventas](https://github.com/JorgeAnalyst/1) 
 * Utilicé una base de datos preexistente de Microsoft (AdventureWorks Sample Databases)
 * Simulé una solicitud comercial con la finalidad de generar un informe de ventas ejecutivo. Definí las historias de usuarios (user stories) para cumplir con los requerimientos y garantizar que los criterios de aceptación se mantuviesen durante todo el proyecto.
 * Creé el modelo de datos necesario para realizar análisis y satisfacer las necesidades comerciales definidas en las user stories.
