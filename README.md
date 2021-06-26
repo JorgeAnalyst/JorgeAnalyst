@@ -23,7 +23,6 @@
 * Limpié y preparé los datos necesarios para la elaboración del reporte.
 * Finalmente, confeccioné el dashboard de ventas en Power BI con visualizaciones claras para mostrar de forma simple y eficaz las ventas a lo largo del tiempo, por clientes y por productos.
 
-## Proyecto 2
 
 ![](/imagen/FOTO.png)
 
