@@ -1,5 +1,5 @@
-<h3 align="center">¡Hola! Soy Jorge Pozo</h3> 
-<h3>Un curioso ingeniero comenzando su camino por el apasionante mundo del análisis y ciencia de datos</h3>
+<h2 align="center">Sobre mí</h2> 
+<h3>¡Bienvenid@! Soy Jorge Pozo, un curioso ingeniero comenzando su camino por el apasionante mundo del análisis y ciencia de datos</h3>
 
 - 🔭 Actualmente estoy creando [un reporte paso a paso y dashboard integral de ventas online](https://github.com/JorgeAnalyst/1)
 
