@@ -1,4 +1,5 @@
 <h1 align="center">Hola 👋, soy Jorge!</h1>
+![](/imagen/FOTO.png)
 <h3 align="center">Un ingeniero comenzando su camino por el apasionante área del análisis de datos</h3>
 
 - 🔭 Actualmente estoy creando [un reporte paso a paso y dashboard integral de ventas online](https://github.com/JorgeAnalyst/1)
@@ -50,6 +51,3 @@ I was able to get the model to predict the sport of the ball with 94% accuracy a
 ![](/images/matrix_results.png)
 
 
-
-PRUEBA
-![](/imagen/FOTO.png)
