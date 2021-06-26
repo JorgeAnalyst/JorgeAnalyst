@@ -1,7 +1,7 @@
 <h2>Hola mundo, soy Jorge Pozo</h2> 
 <h3>Un curioso ingeniero comenzando su camino por el apasionante mundo del BI, Data Science & Analytics</h3>
 
-- 👨‍💻 Mi portfolio: [https://jorgeanalyst.github.io/jorgeanalyst/](https://jorgeanalyst.github.io/jorgeanalyst/)
+- 👨‍💻 Mi portfolio: [https://jorgeanalyst.github.io/JorgeAnalyst/](https://jorgeanalyst.github.io/jorgeanalyst/)
 
 - 📝 Blog: [https://bigdatazo.wordpress.com/](https://bigdatazo.wordpress.com/)
 
