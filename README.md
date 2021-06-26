@@ -1,6 +1,3 @@
-# Portfolio de Jorge Pozo
-
-
 <h1 align="center">Hola 👋, soy Jorge!</h1>
 <h3 align="center">Un ingeniero comenzando su camino por el apasionante área del análisis de datos</h3>
 
