@@ -1,9 +1,5 @@
-<h2 align="center">Sobre mí</h2> 
-<h3>¡Bienvenid@! Soy Jorge Pozo, un curioso ingeniero comenzando su camino por el apasionante mundo del análisis y ciencia de datos</h3>
-
-- 🔭 Actualmente estoy creando [un reporte paso a paso y dashboard integral de ventas online](https://github.com/JorgeAnalyst/1)
-
-- 🌱 Constantemente aprendiendo sobre **BI, data science & analytics**
+<h2 align="center">Hola, soy Jorge Pozo</h2> 
+<h3>Un curioso ingeniero comenzando su camino por el apasionante mundo del BI, Data Science & Analytics</h3>
 
 - 👨‍💻 Mi portfolio: [https://jorgeanalyst.github.io/jorgeanalyst/](https://jorgeanalyst.github.io/jorgeanalyst/)
 
