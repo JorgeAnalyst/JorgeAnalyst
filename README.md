@@ -1,4 +1,4 @@
-<h2 align="center">Hola, soy Jorge Pozo</h2> 
+<h2>Hola mundo, soy Jorge Pozo</h2> 
 <h3>Un curioso ingeniero comenzando su camino por el apasionante mundo del BI, Data Science & Analytics</h3>
 
 - 👨‍💻 Mi portfolio: [https://jorgeanalyst.github.io/jorgeanalyst/](https://jorgeanalyst.github.io/jorgeanalyst/)
@@ -20,7 +20,7 @@
 <h2 align="center">Proyectos</h2>
 
 
-## [Proyecto 1: Reporte de Ventas](https://github.com/JorgeAnalyst/1) 
+## [Reporte de Ventas](https://github.com/JorgeAnalyst/1) 
 * Utilicé una base de datos preexistente de Microsoft (AdventureWorks Sample Databases) 
 * Simulé una solicitud gerencial con sus respectivas user stories para cumplir con los requerimientos y garantizar que los criterios de aceptación se mantuviesen durante todo el proyecto.
 * Creé el modelo de datos necesario para realizar análisis y satisfacer las necesidades comerciales definidas en las user stories.
