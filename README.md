@@ -1,4 +1,4 @@
-<h3 align="center">Hola 👋, soy Jorge! Un curioso ingeniero comenzando su camino por el apasionante mundo del análisis de datos</h3>
+<h3 align="center">Hola 👋, soy Jorge! Un curioso ingeniero comenzando su camino por el apasionante mundo del análisis y ciencia de datos</h3>
 
 - 🔭 Actualmente estoy creando [un reporte paso a paso y dashboard integral de ventas online](https://github.com/JorgeAnalyst/1)
 
