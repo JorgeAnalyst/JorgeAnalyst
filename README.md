@@ -4,7 +4,7 @@
 
 - 🔭 Actualmente estoy creando [un reporte paso a paso y dashboard integral de ventas online](https://github.com/JorgeAnalyst/1)
 
-- 🌱 Constantemente aprendiendo **BI, data science & analytics**
+- 🌱 Constantemente aprendiendo sobre **BI, data science & analytics**
 
 - 👨‍💻 Mi portfolio: [https://jorgeanalyst.github.io/jorgeanalyst/](https://jorgeanalyst.github.io/jorgeanalyst/)
 
