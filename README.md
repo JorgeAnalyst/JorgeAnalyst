@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Jorge!</h1>
-<h3 align="center">Un ingeniero comenzando su camino por el apasionante área del análisis de datos</h3>
+<h3 align="center">Un ingeniero comenzando su camino por el apasionante mundo del análisis de datos</h3>
 
 - 🔭 Actualmente estoy creando [un reporte paso a paso y dashboard integral de ventas online](https://github.com/JorgeAnalyst/1)
 
-- 🌱 Me dedico a aprender todo lo relacionado con **BI, data science & analytics**
+- 🌱 Constantemente aprendiendo **BI, data science & analytics**
 
-- 👨‍💻 My portfolio: [https://jorgeanalyst.github.io/jorgeanalyst/](https://jorgeanalyst.github.io/jorgeanalyst/)
+- 👨‍💻 Mi portfolio: [https://jorgeanalyst.github.io/jorgeanalyst/](https://jorgeanalyst.github.io/jorgeanalyst/)
 
 - 📝 Blog: [https://bigdatazo.wordpress.com/](https://bigdatazo.wordpress.com/)
 
