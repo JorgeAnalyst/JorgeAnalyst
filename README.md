@@ -1,5 +1,6 @@
-<h1 align="center">Hola 👋, soy Jorge!</h1>
-<h3 align="center">Un ingeniero comenzando su camino por el apasionante mundo del análisis de datos</h3>
+<h1 align="center">Jorge Pozo</h1>
+<h1 align="center">Analista de Datos</h1>
+<h3 align="center">Hola 👋, soy Jorge! Un curioso ingeniero comenzando su camino por el apasionante mundo del análisis de datos</h3>
 
 - 🔭 Actualmente estoy creando [un reporte paso a paso y dashboard integral de ventas online](https://github.com/JorgeAnalyst/1)
 
