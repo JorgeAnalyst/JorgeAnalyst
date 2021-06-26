@@ -24,8 +24,6 @@
 * Finalmente, confeccioné el dashboard de ventas en Power BI con visualizaciones claras para mostrar de forma simple y eficaz las ventas a lo largo del tiempo, por clientes y por productos.
 
 
-![](/imagen/FOTO.png)
-
 <h3 align="left">Lenguajes de Programación:</h3>
 <p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
