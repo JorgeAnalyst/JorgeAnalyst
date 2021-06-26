@@ -1,6 +1,31 @@
 # Portfolio de Jorge Pozo
 
-# [Proyecto 1: Reporte de Ventas](https://github.com/JorgeAnalyst/1) 
+
+<h1 align="center">Hola 👋, soy Jorge!</h1>
+<h3 align="center">Un ingeniero comenzando su camino por el apasionante área del análisis de datos</h3>
+
+- 🔭 Actualmente estoy creando [un reporte paso a paso y dashboard integral de ventas online](https://github.com/JorgeAnalyst/1)
+
+- 🌱 Me dedico a aprender todo lo relacionado con **BI, data science & analytics**
+
+- 👨‍💻 My portfolio: [https://jorgeanalyst.github.io/jorgeanalyst/](https://jorgeanalyst.github.io/jorgeanalyst/)
+
+- 📝 Blog: [https://bigdatazo.wordpress.com/](https://bigdatazo.wordpress.com/)
+
+- 📫 Contacto: **jpozogasc@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jorgepozo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorgepozo" height="30" width="40" /></a>
+<a href="https://instagram.com/jorgepozo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jorgepozo_" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+
+## [Proyecto 1: Reporte de Ventas](https://github.com/JorgeAnalyst/1) 
 * Utilicé una base de datos preexistente de Microsoft (AdventureWorks Sample Databases) 
 * Simulé una solicitud gerencial con sus respectivas user stories para cumplir con los requerimientos y garantizar que los criterios de aceptación se mantuviesen durante todo el proyecto.
 * Creé el modelo de datos necesario para realizar análisis y satisfacer las necesidades comerciales definidas en las user stories.
