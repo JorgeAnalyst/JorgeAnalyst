@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, soy Jorge!</h1>
-![](/imagen/FOTO.png)
 <h3 align="center">Un ingeniero comenzando su camino por el apasionante área del análisis de datos</h3>
-
+![](/imagen/FOTO.png)
 - 🔭 Actualmente estoy creando [un reporte paso a paso y dashboard integral de ventas online](https://github.com/JorgeAnalyst/1)
 
 - 🌱 Me dedico a aprender todo lo relacionado con **BI, data science & analytics**
