@@ -14,7 +14,6 @@
 <h3 align="left">Conóceme:</h3>
 
 Blog: [https://bigdatazo.wordpress.com/](https://bigdatazo.wordpress.com/)
-
 Contacto: <a href="mailto:jpozogasc@gmail.com">jpozogasc@gmail.com</a>
 
 
