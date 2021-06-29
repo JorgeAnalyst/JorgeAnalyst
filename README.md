@@ -4,11 +4,9 @@
 
 
 ## [Reporte de Ventas](https://github.com/JorgeAnalyst/1) 
-* Utilicé una base de datos preexistente de Microsoft (AdventureWorks Sample Databases) 
 * Simulé una solicitud gerencial con sus respectivas user stories para cumplir con los requerimientos y garantizar que los criterios de aceptación se mantuviesen durante todo el proyecto.
-* Creé el modelo de datos necesario para realizar análisis y satisfacer las necesidades comerciales definidas en las user stories.
-* Limpié y preparé los datos necesarios para la elaboración del reporte.
-* Finalmente, confeccioné el dashboard de ventas en Power BI con visualizaciones claras para mostrar de forma simple y eficaz las ventas a lo largo del tiempo, por clientes y por productos.
+* Limpié y preparé los datos necesarios para la elaboración de las tablas requeridas y su posterior vinculación a Power BI.
+* Finalmente, confeccioné el dashboard de ventas en Power BI con visualizaciones claras para mostrar de forma simple y eficaz las ventas a lo largo del tiempo, haciendo un especial énfases en los detalles de las ventas e información de clientes.
 
 
 
