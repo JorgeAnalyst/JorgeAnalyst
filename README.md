@@ -17,4 +17,6 @@
 </p>
 
 <h3 align="center">Contacto:</h3>
+<p align="center">
 <a href="mailto:jpozogasc@gmail.com">jpozogasc@gmail.com</a>
+</p>
