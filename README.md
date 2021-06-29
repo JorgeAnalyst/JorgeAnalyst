@@ -11,10 +11,8 @@
 * Finalmente, confeccioné el dashboard de ventas en Power BI con visualizaciones claras para mostrar de forma simple y eficaz las ventas a lo largo del tiempo, por clientes y por productos.
 
 
-<h3 align="left">Conóceme:</h3>
-
-Blog: [https://bigdatazo.wordpress.com/](https://bigdatazo.wordpress.com/)
-Contacto: <a href="mailto:jpozogasc@gmail.com">jpozogasc@gmail.com</a>
+<h3 align="left">Escríbeme:</h3>
+<a href="mailto:jpozogasc@gmail.com">jpozogasc@gmail.com</a>
 
 
 <h3 align="left">Redes Sociales:</h3>
