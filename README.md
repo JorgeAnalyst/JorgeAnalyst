@@ -1,12 +1,3 @@
-<h2>Hola mundo, soy Jorge Pozo</h2> 
-<h3>Un curioso ingeniero comenzando su camino por el apasionante mundo del BI, Data Science & Analytics</h3>
-
-- 👨‍💻 Mi portfolio: [https://jorgeanalyst.github.io/JorgeAnalyst/](https://jorgeanalyst.github.io/jorgeanalyst/)
-
-- 📝 Blog: [https://bigdatazo.wordpress.com/](https://bigdatazo.wordpress.com/)
-
-- 📫 Contacto: <a href="mailto:jpozogasc@gmail.com">jpozogasc@gmail.com</a>
-
 
 
 <h2 align="center">Proyectos</h2>
@@ -20,6 +11,11 @@
 * Finalmente, confeccioné el dashboard de ventas en Power BI con visualizaciones claras para mostrar de forma simple y eficaz las ventas a lo largo del tiempo, por clientes y por productos.
 
 
+- 👨‍💻 Mi portfolio: [https://jorgeanalyst.github.io/JorgeAnalyst/](https://jorgeanalyst.github.io/jorgeanalyst/)
+
+- 📝 Blog: [https://bigdatazo.wordpress.com/](https://bigdatazo.wordpress.com/)
+
+- 📫 Contacto: <a href="mailto:jpozogasc@gmail.com">jpozogasc@gmail.com</a>
 
 
 <h3 align="right">Redes Sociales:</h3>
