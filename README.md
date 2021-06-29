@@ -7,15 +7,7 @@
 
 - 📫 Contacto: <a href="mailto:jpozogasc@gmail.com">jpozogasc@gmail.com</a>
 
-<h3 align="left">Lenguajes de Programación:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-
-<h3 align="left">Redes Sociales:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jorgepozo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorgepozo" height="30" width="40" /></a>
-<a href="https://instagram.com/jorgepozo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jorgepozo_" height="30" width="40" /></a>
-</p>
 
 <h2 align="center">Proyectos</h2>
 
@@ -29,3 +21,9 @@
 
 
 
+
+<h3 align="right">Redes Sociales:</h3>
+<p align="right">
+<a href="https://linkedin.com/in/jorgepozo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorgepozo" height="30" width="40" /></a>
+<a href="https://instagram.com/jorgepozo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jorgepozo_" height="30" width="40" /></a>
+</p>
