@@ -5,7 +5,7 @@
 
 ## [Reporte de Ventas](https://github.com/JorgeAnalyst/1) 
 
-![](/imagen/Ventas3.jpg)
+![](/imagen/Dashboard1.jpg)
 
 * Simulé una solicitud gerencial donde cumplo con los requerimientos y garantizo el cumplimiento de los criterios de aceptación durante todo el proyecto.
 * Limpié y preparé los datos necesarios para la elaboración de las tablas requeridas y su posterior vinculación a Power BI.
