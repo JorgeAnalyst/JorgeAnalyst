@@ -3,7 +3,7 @@
 <h2 align="center">Proyectos</h2>
 
 
-## [Reporte de Ventas](https://github.com/JorgeAnalyst/1) 
+## [Proyecto 1: Reporte de Ventas](https://github.com/JorgeAnalyst/1) 
 
 ![](/imagen/Dashboard1.JPG)
 
