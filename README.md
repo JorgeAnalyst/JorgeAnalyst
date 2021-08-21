@@ -8,7 +8,7 @@
 ![](/imagen/Dashboard1.JPG)
 
 * Simulé una solicitud gerencial donde cumplo con los requerimientos y garantizo el cumplimiento de los criterios de aceptación durante todo el proyecto.
-* Limpié y preparé los datos necesarios para la elaboración de las tablas requeridas y su posterior vinculación a Power BI.
+* Limpié y preparé los datos necesarios para la elaboración de las tablas requeridas y su posterior vinculación con Power BI.
 * Finalmente, confeccioné el dashboard de ventas en Power BI con visualizaciones claras para mostrar de forma simple y eficaz las ventas a lo largo del tiempo, haciendo un especial énfasis en los detalles de ventas y la información de los clientes según los requerimientos solicitados.
 
 
